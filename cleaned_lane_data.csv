@@ -1,0 +1,867 @@
+event,year,gender,competition,round,lane,position,athlete,country,time,reaction_time
+100m,2008,F,Olympics,table_7,1,5,Yuliya Nestsiarenka,Belarus,11.26,0.156
+100m,2008,F,Olympics,table_7,3,3,Jeanette Kwakye,Great Britain,11.19,0.156
+100m,2008,F,Olympics,table_7,4,2,Torri Edwards,United States,11.18,0.174
+100m,2008,F,Olympics,table_7,5,7,Evgeniya Polyakova,Russia,11.38,0.173
+100m,2008,F,Olympics,table_7,6,4,Debbie Ferguson-McKenzie,Bahamas,11.22,0.184
+100m,2008,F,Olympics,table_7,7,1,Kerron Stewart,Jamaica,11.05,0.202
+100m,2008,F,Olympics,table_7,8,6,Kim Gevaert,Belgium,11.3,0.194
+100m,2008,F,Olympics,table_7,9,8,Oludamola Osayomi,Nigeria,11.44,0.208
+100m,2008,F,Olympics,table_8,3,7,Debbie Ferguson,Bahamas,11.19,0.167
+100m,2008,F,Olympics,table_8,5,5,Muna Lee,United States,11.07,0.234
+100m,2008,F,Olympics,table_8,6,8,Torri Edwards,United States,11.2,0.179
+100m,2008,F,Olympics,table_8,8,4,Lauryn Williams,United States,11.03,0.149
+100m,2008,F,Olympics,table_8,9,6,Jeanette Kwakye,Great Britain,11.14,0.161
+100m,2008,M,Olympics,table_23,2,8,Martial Mbandjock,France,10.18,0.148
+100m,2008,M,Olympics,table_23,3,7,Naoki Tsukahara,Japan,10.16,0.143
+100m,2008,M,Olympics,table_23,4,4,Darvis Patton,United States,10.03,0.149
+100m,2008,M,Olympics,table_23,5,3,Churandy Martina,Netherlands Antilles,9.94,0.138
+100m,2008,M,Olympics,table_23,6,1,Asafa Powell,Jamaica,9.91,0.161
+100m,2008,M,Olympics,table_23,7,2,Richard Thompson,Trinidad and Tobago,9.93,0.175
+100m,2008,M,Olympics,table_23,8,6,Francis Obikwelu,Portugal,10.1,0.157
+100m,2008,M,Olympics,table_23,9,5,Tyson Gay,United States,10.05,0.145
+100m,2008,M,Olympics,table_24,2,6,Michael Frater,Jamaica,9.97,0.147
+100m,2008,M,Olympics,table_24,3,8,Darvis Patton,United States,10.03,0.142
+100m,2008,M,Olympics,table_24,7,5,Asafa Powell,Jamaica,9.95,0.134
+100m,2008,M,Olympics,table_24,8,7,Marc Burns,Trinidad and Tobago,10.01,0.145
+100m,2008,M,Olympics,table_24,9,4,Churandy Martina,Netherlands Antilles,9.93,0.169
+100m,2009,F,World Championships,table_10,1,8,Aleen Bailey,Jamaica,11.16,NA
+100m,2009,F,World Championships,table_10,2,6,Debbie Ferguson-McKenzie,Bahamas,11.05,NA
+100m,2009,F,World Championships,table_10,6,4,Veronica Campbell-Brown,Jamaica,10.95,NA
+100m,2009,F,World Championships,table_10,7,7,Chandra Sturrup,Bahamas,11.05,NA
+100m,2009,F,World Championships,table_10,8,5,Lauryn Williams,United States,11.01,NA
+100m,2009,F,World Championships,table_9,1,6,Vida Anim,Ghana,11.43,NA
+100m,2009,F,World Championships,table_9,2,8,Eleni Artymata,Cyprus,11.49,NA
+100m,2009,F,World Championships,table_9,3,2,Veronica Campbell-Brown,Jamaica,11,NA
+100m,2009,F,World Championships,table_9,4,1,Carmelita Jeter,United States,10.83,NA
+100m,2009,F,World Championships,table_9,5,3,Chandra Sturrup,Bahamas,11.01,NA
+100m,2009,F,World Championships,table_9,6,4,Aleen Bailey,Jamaica,11.16,NA
+100m,2009,F,World Championships,table_9,7,7,Semoy Hackett,Trinidad and Tobago,11.45,NA
+100m,2009,F,World Championships,table_9,8,5,Muna Lee,United States,11.18,NA
+100m,2009,M,World Championships,table_11,1,7,Gerald Phiri,Zambia,10.19,NA
+100m,2009,M,World Championships,table_11,2,6,Monzavous Edwards,United States,10.14,NA
+100m,2009,M,World Championships,table_11,3,3,Richard Thompson,Trinidad and Tobago,9.98,NA
+100m,2009,M,World Championships,table_11,4,2,Asafa Powell,Jamaica,9.95,NA
+100m,2009,M,World Championships,table_11,5,1,Tyson Gay,United States,9.93,NA
+100m,2009,M,World Championships,table_11,6,4,Dwain Chambers,Great Britain & N.I.,10.04,NA
+100m,2009,M,World Championships,table_11,7,5,Michael Frater,Jamaica,10.14,NA
+100m,2009,M,World Championships,table_11,8,8,Naoki Tsukahara,Japan,10.25,NA
+100m,2009,M,World Championships,table_12,1,6,Dwain Chambers,Great Britain & N.I.,10,NA
+100m,2009,M,World Championships,table_12,2,7,Marc Burns,Trinidad and Tobago,10,NA
+100m,2009,M,World Championships,table_12,3,4,Daniel Bailey,Antigua and Barbuda,9.93,NA
+100m,2009,M,World Championships,table_12,7,8,Darvis Patton,United States,10.34,NA
+100m,2009,M,World Championships,table_12,8,5,Richard Thompson,Trinidad and Tobago,9.93,NA
+100m,2011,F,World Championships,table_11,1,7,Ivet Lalova,Bulgaria,11.27,NA
+100m,2011,F,World Championships,table_11,2,5,Blessing Okagbare,Nigeria,11.12,NA
+100m,2011,F,World Championships,table_11,3,4,Shelly-Ann Fraser-Pryce,Jamaica,10.99,NA
+100m,2011,F,World Championships,table_11,6,6,Kerron Stewart,Jamaica,11.15,NA
+100m,2011,F,World Championships,table_11,7,8,Marshevet Myers,United States,11.33,NA
+100m,2011,M,World Championships,table_11,1,6,Jimmy Vicaut,France,10.27,NA
+100m,2011,M,World Championships,table_11,2,5,Daniel Bailey,Antigua and Barbuda,10.26,NA
+100m,2011,M,World Championships,table_11,7,7,Nesta Carter,Jamaica,10.95,NA
+100m,2011,M,World Championships,table_11,8,4,Christophe Lemaitre,France,10.19,NA
+100m,2012,F,Olympics,table_19,2,6,Kelly-Ann Baptiste,Trinidad and Tobago,10.94,NA
+100m,2012,F,Olympics,table_19,3,7,Murielle Ahouré,Ivory Coast,11,NA
+100m,2012,F,Olympics,table_19,6,8,Blessing Okagbare,Nigeria,11.01,NA
+100m,2012,F,Olympics,table_19,8,5,Allyson Felix,United States,10.89,NA
+100m,2012,F,Olympics,table_19,9,4,Tianna Madison,United States,10.85,NA
+100m,2012,M,Olympics,table_20,3,7,Rondel Sorrillo,Trinidad and Tobago,10.31,0.14
+100m,2012,M,Olympics,table_20,4,2,Tyson Gay,United States,9.9,0.151
+100m,2012,M,Olympics,table_20,5,6,Ryota Yamagata,Japan,10.1,0.158
+100m,2012,M,Olympics,table_20,6,1,Yohan Blake,Jamaica,9.85,0.176
+100m,2012,M,Olympics,table_20,7,3,Adam Gemili,Great Britain,10.06,0.158
+100m,2012,M,Olympics,table_20,8,4,Derrick Atkins,Bahamas,10.08,0.164
+100m,2012,M,Olympics,table_20,9,5,Justyn Warner,Canada,10.09,0.135
+100m,2012,M,Olympics,table_21,2,6,Richard Thompson,Trinidad and Tobago,9.98,0.16
+100m,2012,M,Olympics,table_21,3,7,Asafa Powell,Jamaica,11.99,0.155
+100m,2012,M,Olympics,table_21,8,4,Ryan Bailey,United States,9.88,0.176
+100m,2012,M,Olympics,table_21,9,5,Churandy Martina,Netherlands,9.94,0.139
+100m,2013,F,World Championships,table_8,2,13,Myriam Soumaré,France,11.26,NA
+100m,2013,F,World Championships,table_8,2,14,Michelle-Lee Ahye,Trinidad and Tobago,11.28,NA
+100m,2013,F,World Championships,table_8,2,18,Nataliya Pohrebnyak,Ukraine,11.31,NA
+100m,2013,F,World Championships,table_8,3,21,Mariely Sánchez,Dominican Republic,11.36,NA
+100m,2013,F,World Championships,table_8,3,22,Olesya Povh,Ukraine,11.38,NA
+100m,2013,F,World Championships,table_8,3,24,Tatjana Pinto,Germany,11.49,NA
+100m,2013,F,World Championships,table_8,4,5,English Gardner,United States,11,NA
+100m,2013,F,World Championships,table_8,4,7,Blessing Okagbare,Nigeria,11.08,NA
+100m,2013,F,World Championships,table_8,4,9,Ivet Lalova,Bulgaria,11.1,NA
+100m,2013,F,World Championships,table_8,5,4,Kerron Stewart,Jamaica,10.97,NA
+100m,2013,F,World Championships,table_8,5,11,Ana Cláudia Lemos,Brazil,11.2,NA
+100m,2013,F,World Championships,table_8,5,15,Franciela Krasucki,Brazil,11.29,NA
+100m,2013,F,World Championships,table_8,6,2,Murielle Ahouré,Ivory Coast,10.95,NA
+100m,2013,F,World Championships,table_8,6,6,Alexandria Anderson,United States,11.01,NA
+100m,2013,F,World Championships,table_8,6,7,Octavious Freeman,United States,11.08,NA
+100m,2013,F,World Championships,table_8,7,1,Shelly-Ann Fraser-Pryce,Jamaica,10.87,NA
+100m,2013,F,World Championships,table_8,7,2,Carmelita Jeter,United States,10.95,NA
+100m,2013,F,World Championships,table_8,7,10,Verena Sailer,Germany,11.11,NA
+100m,2013,F,World Championships,table_8,8,17,Asha Philip,Great Britain & N.I.,11.3,NA
+100m,2013,F,World Championships,table_8,8,19,Sheri-Ann Brooks,Jamaica,11.35,NA
+100m,2013,F,World Championships,table_8,8,23,Gloria Asumnu,Nigeria,11.39,NA
+100m,2013,F,World Championships,table_8,9,12,Schillonie Calvert,Jamaica,11.23,NA
+100m,2013,F,World Championships,table_8,9,16,Sheniqua Ferguson,Bahamas,11.3,NA
+100m,2013,F,World Championships,table_8,9,20,Ezinne Okparaebo,Norway,11.36,NA
+100m,2013,F,World Championships,table_9,2,4,English Gardner,United States,10.97,NA
+100m,2013,F,World Championships,table_9,3,7,Alexandria Anderson,United States,11.1,NA
+100m,2013,F,World Championships,table_9,7,6,Blessing Okagbare,Nigeria,11.04,NA
+100m,2013,F,World Championships,table_9,8,5,Kerron Stewart,Jamaica,10.97,NA
+100m,2013,F,World Championships,table_9,9,8,Octavious Freeman,United States,11.16,NA
+100m,2013,M,World Championships,table_10,2,8,James Dasaolu,Great Britain & N.I.,10.21,NA
+100m,2013,M,World Championships,table_10,3,7,Christophe Lemaitre,France,10.06,NA
+100m,2013,M,World Championships,table_10,4,5,Nickel Ashmeade,Jamaica,9.98,NA
+100m,2013,M,World Championships,table_10,7,4,Kemar Bailey-Cole,Jamaica,9.98,NA
+100m,2013,M,World Championships,table_10,9,6,Mike Rodgers,United States,10.04,NA
+100m,2013,M,World Championships,table_9,2,20,Gavin Smellie,Canada,10.3,NA
+100m,2013,M,World Championships,table_9,3,7,James Dasaolu,Great Britain & N.I.,9.97,NA
+100m,2013,M,World Championships,table_9,3,16,Antoine Adams,Saint Kitts and Nevis,10.17,NA
+100m,2013,M,World Championships,table_9,3,19,Gabriel Mvumvure,Zimbabwe,10.21,NA
+100m,2013,M,World Championships,table_9,4,3,Kemar Bailey-Cole,Jamaica,9.93,NA
+100m,2013,M,World Championships,table_9,4,4,Mike Rodgers,United States,9.93,NA
+100m,2013,M,World Championships,table_9,4,5,Justin Gatlin,United States,9.94,NA
+100m,2013,M,World Championships,table_9,5,2,Usain Bolt,Jamaica,9.92,NA
+100m,2013,M,World Championships,table_9,5,6,Nesta Carter,Jamaica,9.97,NA
+100m,2013,M,World Championships,table_9,5,9,Zhang Peimeng,China,10,NA
+100m,2013,M,World Championships,table_9,6,1,Nickel Ashmeade,Jamaica,9.9,NA
+100m,2013,M,World Championships,table_9,6,13,Aaron Brown,Canada,10.15,NA
+100m,2013,M,World Championships,table_9,6,18,Richard Thompson,Trinidad and Tobago,10.19,NA
+100m,2013,M,World Championships,table_9,7,8,Christophe Lemaitre,France,10,NA
+100m,2013,M,World Championships,table_9,7,10,Jimmy Vicaut,France,10.01,NA
+100m,2013,M,World Championships,table_9,7,11,Keston Bledman,Trinidad and Tobago,10.08,NA
+100m,2013,M,World Championships,table_9,8,15,Jason Rogers,Saint Kitts and Nevis,10.15,NA
+100m,2013,M,World Championships,table_9,8,17,Anaso Jobodwana,South Africa,10.17,NA
+100m,2013,M,World Championships,table_9,8,21,Ramon Gittens,Barbados,10.31,NA
+100m,2013,M,World Championships,table_9,9,12,Churandy Martina,Netherlands,10.09,NA
+100m,2013,M,World Championships,table_9,9,14,Dwain Chambers,Great Britain & N.I.,10.15,NA
+100m,2013,M,World Championships,table_9,9,22,Harry Aikines-Aryeetey,Great Britain & N.I.,10.34,NA
+100m,2015,M,World Championships,table_9,1,8,Jimmy Vicaut,France,10,NA
+100m,2015,M,World Championships,table_9,2,9,Su Bingtian,China,10.06,NA
+100m,2015,M,World Championships,table_9,4,5,Mike Rodgers,United States,9.94,NA
+100m,2015,M,World Championships,table_9,6,6,Tyson Gay,United States,10,NA
+100m,2015,M,World Championships,table_9,8,7,Asafa Powell,Jamaica,10,NA
+100m,2016,F,Olympics,table_20,3,5,Semoy Hackett,Trinidad and Tobago,11.2,0.146
+100m,2016,F,Olympics,table_20,4,1,Elaine Thompson,Jamaica,10.88,0.156
+100m,2016,F,Olympics,table_20,5,4,Desirèe Henry,Great Britain,11.09,0.129
+100m,2016,F,Olympics,table_20,6,3,Blessing Okagbare,Nigeria,11.09,0.155
+100m,2016,F,Olympics,table_20,7,2,English Gardner,United States,10.9,0.158
+100m,2016,F,Olympics,table_20,8,7,Tatjana Pinto,Germany,11.32,0.175
+100m,2016,F,Olympics,table_20,9,6,Carina Horn,South Africa,11.2,0.149
+100m,2016,F,Olympics,table_21,2,8,Christania Williams,Jamaica,11.8,0.163
+100m,2016,F,Olympics,table_21,3,4,Marie-Josée Ta Lou,Ivory Coast,10.86,0.136
+100m,2016,F,Olympics,table_21,7,7,English Gardner,United States,10.94,0.148
+100m,2016,F,Olympics,table_21,8,6,Michelle-Lee Ahye,Trinidad and Tobago,10.92,0.132
+100m,2016,F,Olympics,table_21,9,5,Dafne Schippers,Netherlands,10.9,0.134
+100m,2016,M,Olympics,table_20,2,6,James Dasaolu,Great Britain,10.16,0.145
+100m,2016,M,Olympics,table_20,3,4,Su Bingtian,China,10.08,0.14
+100m,2016,M,Olympics,table_20,4,2,Yohan Blake,Jamaica,10.01,0.147
+100m,2016,M,Olympics,table_20,5,5,Kemarley Brown,Bahrain,10.13,0.152
+100m,2016,M,Olympics,table_20,6,1,Justin Gatlin,United States,9.94,0.151
+100m,2016,M,Olympics,table_20,7,7,Asuka Cambridge,Japan,10.17,0.135
+100m,2016,M,Olympics,table_20,9,3,Christophe Lemaitre,France,10.07,0.122
+100m,2016,M,Olympics,table_21,2,8,Trayvon Bromell,United States,10.06,0.135
+100m,2016,M,Olympics,table_21,3,5,Akani Simbine,South Africa,9.94,0.128
+100m,2016,M,Olympics,table_21,5,7,Jimmy Vicaut,France,10.04,0.14
+100m,2016,M,Olympics,table_21,8,6,Ben Youssef Meïté,Ivory Coast,9.96,0.156
+100m,2016,M,Olympics,table_21,9,4,Yohan Blake,Jamaica,9.93,0.145
+100m,2017,F,World Championships,table_10,2,8,Kelly-Ann Baptiste,Trinidad and Tobago,11.09,NA
+100m,2017,F,World Championships,table_10,3,6,Michelle-Lee Ahye,Trinidad and Tobago,11.01,NA
+100m,2017,F,World Championships,table_10,5,7,Rosângela Santos,Brazil,11.06,NA
+100m,2017,F,World Championships,table_10,6,5,Elaine Thompson,Jamaica,10.98,NA
+100m,2017,F,World Championships,table_10,8,4,Murielle Ahouré,Ivory Coast,10.98,NA
+100m,2017,F,World Championships,table_9,2,8,Kelly-Ann Baptiste,Trinidad and Tobago,11.07,NA
+100m,2017,F,World Championships,table_9,2,16,Asha Philip,Great Britain & N.I.,11.19,NA
+100m,2017,F,World Championships,table_9,2,24,Ewa Swoboda,Poland,11.35,NA
+100m,2017,F,World Championships,table_9,3,17,Simone Facey,Jamaica,11.23,NA
+100m,2017,F,World Championships,table_9,3,18,Desiree Henry,Great Britain & N.I.,11.24,NA
+100m,2017,F,World Championships,table_9,3,22,Salomé Kora,Switzerland,11.31,NA
+100m,2017,F,World Championships,table_9,4,1,Elaine Thompson,Jamaica,10.84,NA
+100m,2017,F,World Championships,table_9,4,4,Tori Bowie,United States,10.91,NA
+100m,2017,F,World Championships,table_9,4,13,Daryll Neita,Great Britain & N.I.,11.16,NA
+100m,2017,F,World Championships,table_9,5,9,Blessing Okagbare,Nigeria,11.08,NA
+100m,2017,F,World Championships,table_9,5,11,Crystal Emmanuel,Canada,11.14,NA
+100m,2017,F,World Championships,table_9,5,23,Deajah Stevens,United States,11.32,NA
+100m,2017,F,World Championships,table_9,6,3,Rosângela Santos,Brazil,10.91,NA
+100m,2017,F,World Championships,table_9,6,5,Dafne Schippers,Netherlands,10.98,NA
+100m,2017,F,World Championships,table_9,6,14,Gina Lückenkemper,Germany,11.16,NA
+100m,2017,F,World Championships,table_9,7,2,Marie-Josée Ta Lou,Ivory Coast,10.87,NA
+100m,2017,F,World Championships,table_9,7,6,Murielle Ahouré,Ivory Coast,10.99,NA
+100m,2017,F,World Championships,table_9,7,10,Mujinga Kambundji,Switzerland,11.11,NA
+100m,2017,F,World Championships,table_9,8,12,Natasha Morrison,Jamaica,11.15,NA
+100m,2017,F,World Championships,table_9,8,19,Ivet Lalova-Collio,Bulgaria,11.25,NA
+100m,2017,F,World Championships,table_9,8,21,Ariana Washington,United States,11.29,NA
+100m,2017,F,World Championships,table_9,9,7,Michelle-Lee Ahye,Trinidad and Tobago,11.04,NA
+100m,2017,F,World Championships,table_9,9,15,Jura Levy,Jamaica,11.19,NA
+100m,2017,F,World Championships,table_9,9,20,Carina Horn,South Africa,11.26,NA
+100m,2017,M,World Championships,table_11,2,5,Akani Simbine,South Africa,10.05,NA
+100m,2017,M,World Championships,table_11,2,14,Emmanuel Matadi,Liberia,10.2,NA
+100m,2017,M,World Championships,table_11,2,17,Shuhei Tada,Japan,10.26,NA
+100m,2017,M,World Championships,table_11,3,16,Asuka Cambridge,Japan,10.25,NA
+100m,2017,M,World Championships,table_11,3,18,Emre Zafer Barnes,Turkey,10.27,NA
+100m,2017,M,World Championships,table_11,3,21,Alex Wilson,Switzerland,10.3,NA
+100m,2017,M,World Championships,table_11,4,1,Christian Coleman,United States,9.97,NA
+100m,2017,M,World Championships,table_11,4,3,Yohan Blake,Jamaica,10.04,NA
+100m,2017,M,World Championships,table_11,4,15,James Dasaolu,Great Britain & N.I.,10.22,NA
+100m,2017,M,World Championships,table_11,5,11,Julian Forte,Jamaica,10.13,NA
+100m,2017,M,World Championships,table_11,5,19,Abdul Hakim Sani Brown,Japan,10.28,NA
+100m,2017,M,World Championships,table_11,5,22,Andrew Fisher,Bahrain,10.36,NA
+100m,2017,M,World Championships,table_11,6,2,Usain Bolt,Jamaica,9.98,NA
+100m,2017,M,World Championships,table_11,6,6,Justin Gatlin,United States,10.09,NA
+100m,2017,M,World Championships,table_11,6,8,Su Bingtian,China,10.1,NA
+100m,2017,M,World Championships,table_11,7,9,Chijindu Ujah,Great Britain & N.I.,10.12,NA
+100m,2017,M,World Championships,table_11,7,10,Ben Youssef Meïté,Ivory Coast,10.12,NA
+100m,2017,M,World Championships,table_11,7,12,Jak Ali Harvey,Turkey,10.16,NA
+100m,2017,M,World Championships,table_11,8,7,Jimmy Vicaut,France,10.09,NA
+100m,2017,M,World Championships,table_11,8,13,Christopher Belcher,United States,10.2,NA
+100m,2017,M,World Championships,table_11,8,23,Kim Kuk-young,South Korea,10.4,NA
+100m,2017,M,World Championships,table_11,9,4,Reece Prescod,Great Britain & N.I.,10.05,NA
+100m,2017,M,World Championships,table_11,9,20,Xie Zhenye,China,10.28,NA
+100m,2017,M,World Championships,table_11,9,24,Cejhae Greene,Antigua and Barbuda,10.64,NA
+100m,2017,M,World Championships,table_12,2,8,Su Bingtian,China,10.27,0.224
+100m,2017,M,World Championships,table_12,3,6,Jimmy Vicaut,France,10.08,0.152
+100m,2017,M,World Championships,table_12,6,5,Akani Simbine,South Africa,10.01,0.141
+100m,2017,M,World Championships,table_12,7,4,Yohan Blake,Jamaica,9.99,0.137
+100m,2017,M,World Championships,table_12,9,7,Reece Prescod,Great Britain & N.I.,10.17,0.145
+100m,2019,F,World Championships,table_8,3,7,Teahna Daniels,United States,11.19,NA
+100m,2019,F,World Championships,table_8,5,4,Elaine Thompson,Jamaica,10.93,NA
+100m,2019,F,World Championships,table_8,8,5,Murielle Ahouré,Ivory Coast,11.02,NA
+100m,2019,F,World Championships,table_8,9,6,Jonielle Smith,Jamaica,11.06,NA
+100m,2019,M,World Championships,table_9,2,7,Filippo Tortu,Italy,10.07,NA
+100m,2019,M,World Championships,table_9,5,4,Akani Simbine,South Africa,9.93,NA
+100m,2019,M,World Championships,table_9,7,6,Zharnel Hughes,Great Britain & N.I.,10.03,NA
+100m,2019,M,World Championships,table_9,8,5,Yohan Blake,Jamaica,9.97,NA
+100m,2019,M,World Championships,table_9,9,8,Aaron Brown,Canada,10.08,NA
+100m,2020,F,Olympics,table_20,2,6,Gina Bass,The Gambia,11.16,0.14
+100m,2020,F,Olympics,table_20,3,8,Anna Bongiorni,Italy,11.38,0.159
+100m,2020,F,Olympics,table_20,4,4,Daryll Neita,Great Britain,11,0.135
+100m,2020,F,Olympics,table_20,5,1,Shelly-Ann Fraser-Pryce,Jamaica,10.73,0.136
+100m,2020,F,Olympics,table_20,6,3,Teahna Daniels,United States,10.98,0.144
+100m,2020,F,Olympics,table_20,7,2,Mujinga Kambundji,Switzerland,10.96,0.128
+100m,2020,F,Olympics,table_20,8,7,Murielle Ahouré,Ivory Coast,11.28,0.124
+100m,2020,F,Olympics,table_20,9,5,Nzubechi Grace Nwokocha,Nigeria,11.07,0.142
+100m,2020,F,Olympics,table_21,2,8,Daryll Neita,Great Britain,11.12,0.108
+100m,2020,F,Olympics,table_21,3,7,Teahna Daniels,United States,11.02,0.144
+100m,2020,F,Olympics,table_21,6,4,Marie-Josée Ta Lou,Ivory Coast,10.91,0.158
+100m,2020,F,Olympics,table_21,8,5,Ajla Del Ponte,Switzerland,10.97,0.129
+100m,2020,F,Olympics,table_21,9,6,Mujinga Kambundji,Switzerland,10.99,0.138
+100m,2020,M,Olympics,table_21,2,5,Jason Rogers,Saint Kitts and Nevis,10.12,NA
+100m,2020,M,Olympics,table_21,3,7,Paulo André de Oliveira,Brazil,10.31,NA
+100m,2020,M,Olympics,table_21,5,3,Marcell Jacobs,Italy,9.84,NA
+100m,2020,M,Olympics,table_21,7,4,Akani Simbine,South Africa,9.9,NA
+100m,2020,M,Olympics,table_21,9,6,Arthur Cissé,Ivory Coast,10.18,NA
+100m,2020,M,Olympics,table_22,2,4,Akani Simbine,South Africa,9.93,NA
+100m,2020,M,Olympics,table_22,6,6,Su Bingtian,China,9.98,NA
+100m,2020,M,Olympics,table_22,7,5,Ronnie Baker,United States,9.95,NA
+100m,2022,M,World Championships,table_8,1,7,Abdul Hakim Sani Brown,Japan,10.06,NA
+100m,2022,M,World Championships,table_8,2,8,Aaron Brown,Canada,10.07,NA
+100m,2022,M,World Championships,table_8,6,4,Oblique Seville,Jamaica,9.97,NA
+100m,2023,F,World Championships,table_7,2,16,Gina Lückenkemper,Germany,11.18,NA
+100m,2023,F,World Championships,table_7,2,20,Rani Rosius,Belgium,11.2,NA
+100m,2023,F,World Championships,table_7,2,23,Boglárka Takács,Hungary,11.26,NA
+100m,2023,F,World Championships,table_7,3,14,Shashalee Forbes,Jamaica,11.12,NA
+100m,2023,F,World Championships,table_7,3,16,Michelle-Lee Ahye,Trinidad and Tobago,11.18,NA
+100m,2023,F,World Championships,table_7,3,18,Gina Bass,Gambia,11.19,NA
+100m,2023,F,World Championships,table_7,4,6,Brittany Brown,United States,10.97,NA
+100m,2023,F,World Championships,table_7,4,11,Daryll Neita,Great Britain & N.I.,11.03,NA
+100m,2023,F,World Championships,table_7,4,13,Mujinga Kambundji,Switzerland,11.04,NA
+100m,2023,F,World Championships,table_7,5,1,Shericka Jackson,Jamaica,10.79,NA
+100m,2023,F,World Championships,table_7,5,5,Julien Alfred,Saint Lucia,10.92,NA
+100m,2023,F,World Championships,table_7,5,8,Ewa Swoboda,Poland,11.01,NA
+100m,2023,F,World Championships,table_7,6,3,Sha'Carri Richardson,United States,10.84,NA
+100m,2023,F,World Championships,table_7,6,7,Tamari Davis,United States,10.98,NA
+100m,2023,F,World Championships,table_7,6,12,Natasha Morrison,Jamaica,11.03,NA
+100m,2023,F,World Championships,table_7,7,1,Marie-Josée Ta Lou,Ivory Coast,10.79,NA
+100m,2023,F,World Championships,table_7,7,4,Shelly-Ann Fraser-Pryce,Jamaica,10.89,NA
+100m,2023,F,World Championships,table_7,7,8,Dina Asher-Smith,Great Britain & N.I.,11.01,NA
+100m,2023,F,World Championships,table_7,8,10,Zoe Hobbs,New Zealand,11.02,NA
+100m,2023,F,World Championships,table_7,8,15,N'Ketia Seedo,Netherlands,11.17,NA
+100m,2023,F,World Championships,table_7,8,19,Zaynab Dosso,Italy,11.19,NA
+100m,2023,F,World Championships,table_7,9,21,Jaël Bestué,Spain,11.25,NA
+100m,2023,F,World Championships,table_7,9,22,Rosemary Chukwuma,Nigeria,11.26,NA
+100m,2023,F,World Championships,table_7,9,24,Géraldine Frey,Switzerland,11.28,NA
+100m,2023,F,World Championships,table_8,1,6,Ewa Swoboda,Poland,10.97,NA
+100m,2023,F,World Championships,table_8,2,8,Dina Asher-Smith,Great Britain & N.I.,11,NA
+100m,2023,F,World Championships,table_8,3,7,Brittany Brown,United States,10.97,NA
+100m,2023,F,World Championships,table_8,6,5,Julien Alfred,Saint Lucia,10.93,NA
+100m,2023,F,World Championships,table_8,7,4,Marie-Josée Ta Lou,Ivory Coast,10.81,NA
+100m,2023,F,World Championships,table_8,8,9,Tamari Davis,United States,11.03,NA
+100m,2023,M,World Championships,table_19,2,7,Brendon Rodney,Canada,10.25,NA
+100m,2023,M,World Championships,table_19,3,4,Rohan Browning,Australia,10.11,NA
+100m,2023,M,World Championships,table_19,4,3,Fred Kerley,United States,10.02,NA
+100m,2023,M,World Championships,table_19,5,5,Raphael Bouju,Netherlands,10.2,NA
+100m,2023,M,World Championships,table_19,6,2,Letsile Tebogo,Botswana,9.98,NA
+100m,2023,M,World Championships,table_19,7,1,Oblique Seville,Jamaica,9.9,NA
+100m,2023,M,World Championships,table_19,8,8,Reece Prescod,Great Britain & N.I.,10.26,NA
+100m,2023,M,World Championships,table_19,9,6,Henrik Larsson,Sweden,10.2,NA
+100m,2023,M,World Championships,table_20,2,8,Ryiem Forde,Jamaica,10.08,NA
+100m,2023,M,World Championships,table_20,4,5,Christian Coleman,United States,9.92,NA
+100m,2023,M,World Championships,table_20,8,6,Abdul Hakim Sani Brown,Japan,10.04,NA
+100m,2023,M,World Championships,table_20,9,7,Ferdinand Omanyala,Kenya,10.07,NA
+200m,2008,F,Olympics,table_7,2,8,Aleksandra Fedoriva,Russia,23.22,NA
+200m,2008,F,Olympics,table_7,3,4,Cydonie Mothersille,Cayman Islands,22.61,NA
+200m,2008,F,Olympics,table_7,4,5,Muriel Hurtis-Houairi,France,22.71,NA
+200m,2008,F,Olympics,table_7,5,3,Sherone Simpson,Jamaica,22.5,NA
+200m,2008,F,Olympics,table_7,6,6,Roqaya Al-Gassra,Bahrain,22.72,NA
+200m,2008,F,Olympics,table_7,7,1,Allyson Felix,United States,22.33,NA
+200m,2008,F,Olympics,table_7,8,7,Emily Freeman,Great Britain,22.83,NA
+200m,2008,F,Olympics,table_7,9,2,Marshevet Hooker,United States,22.5,NA
+200m,2008,F,Olympics,table_8,2,7,Debbie Ferguson-McKenzie,Bahamas,22.61,0.175
+200m,2008,F,Olympics,table_8,3,8,Cydonie Mothersille,Cayman Islands,22.68,0.206
+200m,2008,F,Olympics,table_8,7,5,Marshevet Hooker,United States,22.34,0.2
+200m,2008,F,Olympics,table_8,8,6,Sherone Simpson,Jamaica,22.36,0.167
+200m,2008,F,Olympics,table_8,9,4,Muna Lee,United States,22.01,0.176
+200m,2008,M,Olympics,table_18,2,6,Stephan Buckland,Mauritius,20.48,0.141
+200m,2008,M,Olympics,table_18,3,7,Marlon Devonish,Great Britain,20.57,0.258
+200m,2008,M,Olympics,table_18,4,5,Brendan Christian,Antigua and Barbuda,20.29,0.135
+200m,2008,M,Olympics,table_18,5,2,Shawn Crawford,United States,20.12,0.196
+200m,2008,M,Olympics,table_18,6,1,Usain Bolt,Jamaica,20.09,0.175
+200m,2008,M,Olympics,table_18,7,3,Wallace Spearmon,United States,20.14,0.196
+200m,2008,M,Olympics,table_18,8,4,Kim Collins,Saint Kitts and Nevis,20.25,0.191
+200m,2008,M,Olympics,table_19,2,6,Kim Collins,Saint Kitts and Nevis,20.59,0.165
+200m,2008,M,Olympics,table_19,3,5,Christian Malcolm,Great Britain,20.4,0.212
+200m,2008,M,Olympics,table_19,6,4,Brian Dzingai,Zimbabwe,20.22,0.185
+200m,2009,M,World Championships,table_11,1,8,Emmanuel Callander,Trinidad and Tobago,20.7,NA
+200m,2009,M,World Championships,table_11,2,3,Charles Clark,United States,20.27,NA
+200m,2009,M,World Championships,table_11,3,2,Steve Mullings,Jamaica,20.26,NA
+200m,2009,M,World Championships,table_11,4,4,Ramil Guliyev,Azerbaijan,20.28,NA
+200m,2009,M,World Championships,table_11,5,1,Wallace Spearmon,United States,20.14,NA
+200m,2009,M,World Championships,table_11,6,7,Marlon Devonish,Great Britain & N.I.,20.62,NA
+200m,2009,M,World Championships,table_11,7,5,Martial Mbandjock,France,20.43,NA
+200m,2009,M,World Championships,table_11,8,6,Paul Hession,Ireland,20.48,NA
+200m,2009,M,World Championships,table_12,1,7,Ramil Guliyev,Azerbaijan,20.61,NA
+200m,2009,M,World Championships,table_12,2,8,David Alerte,France,20.68,NA
+200m,2009,M,World Championships,table_12,3,5,Steve Mullings,Jamaica,19.98,NA
+200m,2009,M,World Championships,table_12,7,6,Charles Clark,United States,20.39,NA
+200m,2009,M,World Championships,table_12,8,4,Shawn Crawford,United States,19.89,NA
+200m,2011,F,World Championships,table_8,1,6,Debbie Ferguson-McKenzie,Bahamas,22.96,NA
+200m,2011,F,World Championships,table_8,2,7,Hrystyna Stuy,Ukraine,23.02,NA
+200m,2011,F,World Championships,table_8,6,4,Shalonda Solomon,United States,22.61,NA
+200m,2011,F,World Championships,table_8,7,8,Sherone Simpson,Jamaica,23.17,NA
+200m,2011,F,World Championships,table_8,8,5,Kerron Stewart,Jamaica,22.7,NA
+200m,2011,M,World Championships,table_10,1,7,Rondel Sorrillo,Trinidad and Tobago,20.34,NA
+200m,2011,M,World Championships,table_10,2,6,Bruno de Barros,Brazil,20.31,NA
+200m,2011,M,World Championships,table_10,5,5,Nickel Ashmeade,Jamaica,20.29,NA
+200m,2011,M,World Championships,table_10,8,4,Jaysuma Saidy Ndure,Norway,19.95,NA
+200m,2012,M,Olympics,table_16,2,6,Christophe Lemaitre,France,20.19,NA
+200m,2012,M,Olympics,table_16,3,7,Álex Quiñónez,Ecuador,20.57,NA
+200m,2012,M,Olympics,table_16,5,5,Churandy Martina,Netherlands,20,NA
+200m,2012,M,Olympics,table_16,6,4,Wallace Spearmon,United States,19.9,NA
+200m,2012,M,Olympics,table_16,9,8,Anaso Jobodwana,South Africa,20.69,NA
+200m,2013,F,World Championships,table_8,1,16,Kimberly Hyacinthe,Canada,23.12,NA
+200m,2013,F,World Championships,table_8,1,18,Kai Selvon,Trinidad and Tobago,23.21,NA
+200m,2013,F,World Championships,table_8,1,22,Maria Belibasaki,Greece,23.46,NA
+200m,2013,F,World Championships,table_8,2,9,Ivet Lalova,Bulgaria,22.81,NA
+200m,2013,F,World Championships,table_8,2,14,Mariely Sánchez,Dominican Republic,23.05,NA
+200m,2013,F,World Championships,table_8,2,18,Jodie Williams,Great Britain & N.I.,23.21,NA
+200m,2013,F,World Championships,table_8,3,1,Allyson Felix,United States,22.3,NA
+200m,2013,F,World Championships,table_8,3,9,Anthonique Strachan,Bahamas,22.81,NA
+200m,2013,F,World Championships,table_8,3,23,Anneisha McLaughlin,Jamaica,27.13,NA
+200m,2013,F,World Championships,table_8,4,2,Blessing Okagbare,Nigeria,22.39,NA
+200m,2013,F,World Championships,table_8,4,3,Murielle Ahouré,Ivory Coast,22.46,NA
+200m,2013,F,World Championships,table_8,4,4,Shelly-Ann Fraser-Pryce,Jamaica,22.54,NA
+200m,2013,F,World Championships,table_8,5,6,Mariya Ryemyen,Ukraine,22.7,NA
+200m,2013,F,World Championships,table_8,5,13,Hrystyna Stuy,Ukraine,22.98,NA
+200m,2013,F,World Championships,table_8,6,5,Shaunae Miller,Bahamas,22.66,NA
+200m,2013,F,World Championships,table_8,6,8,Charonda Williams,United States,22.8,NA
+200m,2013,F,World Championships,table_8,6,12,Kimberlyn Duncan,United States,22.91,NA
+200m,2013,F,World Championships,table_8,7,15,Lénora Guion-Firmin,France,23.11,NA
+200m,2013,F,World Championships,table_8,7,17,Johanna Danois,France,23.15,NA
+200m,2013,F,World Championships,table_8,7,18,Hanna-Maari Latvala,Finland,23.21,NA
+200m,2013,F,World Championships,table_8,8,6,Jeneba Tarmoh,United States,22.7,NA
+200m,2013,F,World Championships,table_8,8,11,Myriam Soumaré,France,22.85,NA
+200m,2013,F,World Championships,table_8,8,21,Patricia Hall,Jamaica,23.26,NA
+200m,2013,F,World Championships,table_9,1,5,Jeneba Tarmoh,United States,22.78,NA
+200m,2013,F,World Championships,table_9,2,6,Charonda Williams,United States,22.81,NA
+200m,2013,F,World Championships,table_9,7,4,Shaunae Miller,Bahamas,22.74,NA
+200m,2013,F,World Championships,table_9,8,7,Mariya Ryemyen,Ukraine,22.84,NA
+200m,2013,M,World Championships,table_8,1,15,Álex Quiñónez,Ecuador,20.55,NA
+200m,2013,M,World Championships,table_8,1,19,Shōta Iizuka,Japan,20.61,NA
+200m,2013,M,World Championships,table_8,1,21,Wallace Spearmon,United States,20.66,NA
+200m,2013,M,World Championships,table_8,2,17,Lykourgos-Stefanos Tsakonas,Greece,20.56,NA
+200m,2013,M,World Championships,table_8,2,20,Karol Zalewski,Poland,20.66,NA
+200m,2013,M,World Championships,table_8,2,24,Lalonde Gordon,Trinidad and Tobago,21.14,NA
+200m,2013,M,World Championships,table_8,3,5,Anaso Jobodwana,South Africa,20.13,NA
+200m,2013,M,World Championships,table_8,3,7,Warren Weir,Jamaica,20.2,NA
+200m,2013,M,World Championships,table_8,3,22,Alonso Edward,Panama,20.67,NA
+200m,2013,M,World Championships,table_8,4,3,Nickel Ashmeade,Jamaica,20,NA
+200m,2013,M,World Championships,table_8,4,4,Usain Bolt,Jamaica,20.12,NA
+200m,2013,M,World Championships,table_8,4,8,Jaysuma Saidy Ndure,Norway,20.33,NA
+200m,2013,M,World Championships,table_8,5,1,Curtis Mitchell,United States,19.97,NA
+200m,2013,M,World Championships,table_8,5,6,Churandy Martina,Netherlands,20.13,NA
+200m,2013,M,World Championships,table_8,5,12,Jason Livermore,Jamaica,20.46,NA
+200m,2013,M,World Championships,table_8,6,2,Adam Gemili,Great Britain & N.I.,19.98,NA
+200m,2013,M,World Championships,table_8,6,11,James Ellington,Great Britain & N.I.,20.44,NA
+200m,2013,M,World Championships,table_8,6,16,Bruno Hortelano,Spain,20.55,NA
+200m,2013,M,World Championships,table_8,7,10,Serhiy Smelyk,Ukraine,20.42,NA
+200m,2013,M,World Championships,table_8,7,13,Antoine Adams,Saint Kitts and Nevis,20.47,NA
+200m,2013,M,World Championships,table_8,7,14,Jimmy Vicaut,France,20.51,NA
+200m,2013,M,World Championships,table_8,8,9,Isiah Young,United States,20.36,NA
+200m,2013,M,World Championships,table_8,8,18,Delano Williams,Great Britain & N.I.,20.61,NA
+200m,2013,M,World Championships,table_8,8,23,Mosito Lehata,Lesotho,20.68,NA
+200m,2013,M,World Championships,table_9,1,7,Churandy Martina,Netherlands,20.35,NA
+200m,2013,M,World Championships,table_9,2,8,Jaysuma Saidy Ndure,Norway,20.37,NA
+200m,2013,M,World Championships,table_9,5,5,Adam Gemili,Great Britain & N.I.,20.08,NA
+200m,2013,M,World Championships,table_9,6,4,Nickel Ashmeade,Jamaica,20.05,NA
+200m,2013,M,World Championships,table_9,7,6,Anaso Jobodwana,South Africa,20.14,NA
+200m,2015,F,World Championships,table_9,3,7,Ivet Lalova,Bulgaria,22.41,NA
+200m,2015,F,World Championships,table_9,4,5,Dina Asher-Smith,Great Britain & N.I.,22.07,NA
+200m,2015,F,World Championships,table_9,7,4,Candyce McGrone,United States,22.01,NA
+200m,2015,F,World Championships,table_9,8,6,Jeneba Tarmoh,United States,22.31,NA
+200m,2015,F,World Championships,table_9,9,8,Sherone Simpson,Jamaica,22.5,NA
+200m,2015,M,World Championships,table_8,2,7,Femi Ogunode,Qatar,20.27,NA
+200m,2015,M,World Championships,table_8,3,6,Ramil Guliyev,Turkey,20.11,NA
+200m,2015,M,World Championships,table_8,5,5,Zharnel Hughes,Great Britain & N.I.,20.02,NA
+200m,2015,M,World Championships,table_8,8,8,Nickel Ashmeade,Jamaica,20.33,NA
+200m,2016,F,Olympics,table_17,1,8,Crystal Emmanuel,Canada,23.05,0.149
+200m,2016,F,Olympics,table_17,2,5,Gina Lückenkemper,Germany,22.73,0.196
+200m,2016,F,Olympics,table_17,3,6,Edidiong Odiong,Bahrain,22.84,0.156
+200m,2016,F,Olympics,table_17,4,1,Tori Bowie,United States,22.13,0.145
+200m,2016,F,Olympics,table_17,5,4,Murielle Ahouré,Ivory Coast,22.59,0.144
+200m,2016,F,Olympics,table_17,6,2,Michelle-Lee Ahye,Trinidad and Tobago,22.25,0.153
+200m,2016,F,Olympics,table_17,7,7,Nercely Soto,Venezuela,22.88,0.174
+200m,2016,F,Olympics,table_17,8,3,Simone Facey,Jamaica,22.57,0.158
+200m,2016,F,Olympics,table_18,1,7,Deajah Stevens,United States,22.65,0.171
+200m,2016,F,Olympics,table_18,2,5,Dina Asher-Smith,Great Britain,22.31,0.135
+200m,2016,F,Olympics,table_18,3,4,Marie Josée Ta Lou,Ivory Coast,22.21,0.153
+200m,2016,F,Olympics,table_18,7,6,Michelle-Lee Ahye,Trinidad and Tobago,22.34,0.158
+200m,2016,F,Olympics,table_18,8,8,Ivet Lalova-Collio,Bulgaria,22.69,0.104
+200m,2016,M,Olympics,table_19,1,7,Lykourgos-Stefanos Tsakonas,Greece,20.63,0.159
+200m,2016,M,Olympics,table_19,2,3,Justin Gatlin,United States,20.13,0.137
+200m,2016,M,Olympics,table_19,3,8,Matteo Galvan,Italy,20.88,0.149
+200m,2016,M,Olympics,table_19,4,4,Bruno Hortelano,Spain,20.16,0.142
+200m,2016,M,Olympics,table_19,5,1,Alonso Edward,Panama,20.07,0.14
+200m,2016,M,Olympics,table_19,6,6,Yohan Blake,Jamaica,20.37,0.151
+200m,2016,M,Olympics,table_19,7,5,Nethaneel Mitchell-Blake,Great Britain,20.25,0.196
+200m,2016,M,Olympics,table_19,8,2,Churandy Martina,Netherlands,20.1,0.147
+200m,2016,M,Olympics,table_20,1,8,Ramil Guliyev,Turkey,20.43,0.141
+200m,2016,M,Olympics,table_20,2,4,Adam Gemili,Great Britain,20.12,0.178
+200m,2016,M,Olympics,table_20,3,7,Alonso Edward,Panama,20.23,0.162
+200m,2016,M,Olympics,table_20,5,6,LaShawn Merritt,United States,20.19,0.189
+200m,2016,M,Olympics,table_20,8,5,Churandy Martina,Netherlands,20.13,0.148
+200m,2017,F,World Championships,table_10,2,7,Crystal Emmanuel,Canada,22.6,NA
+200m,2017,F,World Championships,table_10,3,8,Tynia Gaither,Bahamas,23.07,NA
+200m,2017,F,World Championships,table_10,7,5,Deajah Stevens,United States,22.44,NA
+200m,2017,F,World Championships,table_10,8,4,Dina Asher-Smith,Great Britain & N.I.,22.22,NA
+200m,2017,F,World Championships,table_10,9,6,Kimberlyn Duncan,United States,22.59,NA
+200m,2017,F,World Championships,table_9,2,15,Justine Palframan,South Africa,23.21,NA
+200m,2017,F,World Championships,table_9,2,20,Jodean Williams,Jamaica,23.32,NA
+200m,2017,F,World Championships,table_9,2,23,Semoy Hackett,Trinidad and Tobago,23.54,NA
+200m,2017,F,World Championships,table_9,3,13,Sashalee Forbes,Jamaica,23.09,NA
+200m,2017,F,World Championships,table_9,3,21,Bianca Williams,Great Britain & N.I.,23.4,NA
+200m,2017,F,World Championships,table_9,3,22,Estelle Raffai,France,23.45,NA
+200m,2017,F,World Championships,table_9,4,5,Kimberlyn Duncan,United States,22.73,NA
+200m,2017,F,World Championships,table_9,4,6,Dina Asher-Smith,Great Britain & N.I.,22.73,NA
+200m,2017,F,World Championships,table_9,4,12,Rebekka Haase,Germany,23.03,NA
+200m,2017,F,World Championships,table_9,5,1,Dafne Schippers,Netherlands,22.49,NA
+200m,2017,F,World Championships,table_9,5,3,Marie-Josée Ta Lou,Ivory Coast,22.5,NA
+200m,2017,F,World Championships,table_9,5,10,Mujinga Kambundji,Switzerland,23,NA
+200m,2017,F,World Championships,table_9,6,4,Deajah Stevens,United States,22.71,NA
+200m,2017,F,World Championships,table_9,6,7,Crystal Emmanuel,Canada,22.85,NA
+200m,2017,F,World Championships,table_9,6,11,Simone Facey,Jamaica,23.01,NA
+200m,2017,F,World Championships,table_9,7,2,Shaunae Miller-Uibo,Bahamas,22.49,NA
+200m,2017,F,World Championships,table_9,7,8,Tynia Gaither,Bahamas,22.85,NA
+200m,2017,F,World Championships,table_9,7,9,Ivet Lalova-Collio,Bulgaria,22.96,NA
+200m,2017,F,World Championships,table_9,8,14,Sarah Atcho,Switzerland,23.12,NA
+200m,2017,F,World Championships,table_9,8,17,Maria Belimpasaki,Greece,23.21,NA
+200m,2017,F,World Championships,table_9,8,18,Edidiong Odiong,Bahrain,23.24,NA
+200m,2017,F,World Championships,table_9,9,16,Anthonique Strachan,Bahamas,23.21,NA
+200m,2017,F,World Championships,table_9,9,19,Vitória Cristina Rosa,Brazil,23.31,NA
+200m,2017,M,World Championships,table_10,2,4,Nethaneel Mitchell-Blake,Great Britain & N.I.,20.24,NA
+200m,2017,M,World Championships,table_10,4,8,Isiah Young,United States,20.64,NA
+200m,2017,M,World Championships,table_10,6,6,Isaac Makwala,Botswana,20.44,NA
+200m,2017,M,World Championships,table_10,8,7,Abdul Hakim Sani Brown,Japan,20.63,NA
+200m,2017,M,World Championships,table_10,9,5,Ameer Webb,United States,20.26,NA
+200m,2017,M,World Championships,table_9,1,3,Isaac Makwala,Botswana,20.14,NA
+200m,2017,M,World Championships,table_9,2,13,David Lima,Portugal,20.56,NA
+200m,2017,M,World Championships,table_9,2,22,Winston George,Guyana,20.74,NA
+200m,2017,M,World Championships,table_9,2,25,Alex Wilson,Switzerland,21.22,NA
+200m,2017,M,World Championships,table_9,3,17,Filippo Tortu,Italy,20.62,NA
+200m,2017,M,World Championships,table_9,3,23,Wilfried Koffi Hua,Ivory Coast,20.8,NA
+200m,2017,M,World Championships,table_9,3,24,Zharnel Hughes,Great Britain & N.I.,20.85,NA
+200m,2017,M,World Championships,table_9,4,4,Ramil Guliyev,Turkey,20.17,NA
+200m,2017,M,World Championships,table_9,4,14,Kyree King,United States,20.59,NA
+200m,2017,M,World Championships,table_9,4,18,Akani Simbine,South Africa,20.62,NA
+200m,2017,M,World Championships,table_9,5,2,Jereem Richards,Trinidad and Tobago,20.14,NA
+200m,2017,M,World Championships,table_9,5,5,Nethaneel Mitchell-Blake,Great Britain & N.I.,20.19,NA
+200m,2017,M,World Championships,table_9,5,6,Ameer Webb,United States,20.22,NA
+200m,2017,M,World Championships,table_9,6,7,Wayde van Niekerk,South Africa,20.28,NA
+200m,2017,M,World Championships,table_9,6,12,Sydney Siame,Zambia,20.54,NA
+200m,2017,M,World Championships,table_9,6,19,Kyle Greaux,Trinidad and Tobago,20.65,NA
+200m,2017,M,World Championships,table_9,7,1,Isiah Young,United States,20.12,NA
+200m,2017,M,World Championships,table_9,7,9,Daniel Talbot,Great Britain & N.I.,20.38,NA
+200m,2017,M,World Championships,table_9,7,11,Yohan Blake,Jamaica,20.52,NA
+200m,2017,M,World Championships,table_9,8,8,Christophe Lemaitre,France,20.3,NA
+200m,2017,M,World Championships,table_9,8,15,Ján Volko,Slovakia,20.61,NA
+200m,2017,M,World Championships,table_9,8,16,Shota Iizuka,Japan,20.62,NA
+200m,2017,M,World Championships,table_9,9,10,Abdul Hakim Sani Brown,Japan,20.43,NA
+200m,2017,M,World Championships,table_9,9,20,Rasheed Dwyer,Jamaica,20.69,NA
+200m,2017,M,World Championships,table_9,9,21,Likourgos-Stefanos Tsakonas,Greece,20.73,NA
+200m,2019,F,World Championships,table_7,2,14,Basant Hemida,Egypt,22.92,NA
+200m,2019,F,World Championships,table_7,2,15,Jamile Samuel,Netherlands,23.02,NA
+200m,2019,F,World Championships,table_7,2,17,Marileidy Paulino,Dominican Republic,23.03,NA
+200m,2019,F,World Championships,table_7,3,9,Crystal Emmanuel,Canada,22.65,NA
+200m,2019,F,World Championships,table_7,3,12,Maja Mihalinec,Slovenia,22.81,NA
+200m,2019,F,World Championships,table_7,3,21,Jessica-Bianca Wessolly,Germany,23.37,NA
+200m,2019,F,World Championships,table_7,4,5,Dezerea Bryant,United States,22.56,NA
+200m,2019,F,World Championships,table_7,4,11,Jodie Williams,Great Britain & N.I.,22.78,NA
+200m,2019,F,World Championships,table_7,4,16,Carolle Zahi,France,23.03,NA
+200m,2019,F,World Championships,table_7,5,2,Brittany Brown,United States,22.46,NA
+200m,2019,F,World Championships,table_7,5,3,Anglerne Annelus,United States,22.49,NA
+200m,2019,F,World Championships,table_7,5,22,Kamaria Durant,Trinidad and Tobago,23.44,NA
+200m,2019,F,World Championships,table_7,6,1,Dina Asher-Smith,Great Britain & N.I.,22.16,NA
+200m,2019,F,World Championships,table_7,6,10,Aminatou Seyni,Niger,22.77,NA
+200m,2019,F,World Championships,table_7,7,7,Ivet Lalova-Collio,Bulgaria,22.58,NA
+200m,2019,F,World Championships,table_7,7,18,Tatjana Pinto,Germany,23.11,NA
+200m,2019,F,World Championships,table_7,7,23,Anthonique Strachan,Bahamas,25.44,NA
+200m,2019,F,World Championships,table_7,8,13,Lisa-Marie Kwayie,Germany,22.83,NA
+200m,2019,F,World Championships,table_7,8,19,Beth Dobbin,Great Britain & N.I.,23.11,NA
+200m,2019,F,World Championships,table_7,8,20,Shashalee Forbes,Jamaica,23.14,NA
+200m,2019,F,World Championships,table_7,9,4,Mujinga Kambundji,Switzerland,22.49,NA
+200m,2019,F,World Championships,table_7,9,6,Tynia Gaither,Bahamas,22.57,NA
+200m,2019,F,World Championships,table_7,9,8,Gina Bass,Gambia,22.6,NA
+200m,2019,F,World Championships,table_8,2,6,Gina Bass,Gambia,22.71,NA
+200m,2019,F,World Championships,table_8,3,7,Ivet Lalova-Collio,Bulgaria,22.77,NA
+200m,2019,F,World Championships,table_8,5,4,Anglerne Annelus,United States,22.59,NA
+200m,2019,F,World Championships,table_8,8,5,Dezerea Bryant,United States,22.63,NA
+200m,2019,F,World Championships,table_8,9,8,Tynia Gaither,Bahamas,22.9,NA
+200m,2019,M,World Championships,table_7,2,18,Serhiy Smelyk,Ukraine,20.55,NA
+200m,2019,M,World Championships,table_7,2,21,Fausto Desalu,Italy,20.73,NA
+200m,2019,M,World Championships,table_7,2,22,Divine Oduduru,Nigeria,20.84,NA
+200m,2019,M,World Championships,table_7,3,19,Andre Ewers,Jamaica,20.61,NA
+200m,2019,M,World Championships,table_7,3,20,Reynier Mena,Cuba,20.61,NA
+200m,2019,M,World Championships,table_7,4,2,Álex Quiñónez,Ecuador,19.95,NA
+200m,2019,M,World Championships,table_7,4,6,Ramil Guliyev,Turkey,20.16,NA
+200m,2019,M,World Championships,table_7,4,15,Yohan Blake,Jamaica,20.37,NA
+200m,2019,M,World Championships,table_7,5,1,Noah Lyles,United States,19.86,NA
+200m,2019,M,World Championships,table_7,5,4,Adam Gemili,Great Britain & N.I.,20.03,NA
+200m,2019,M,World Championships,table_7,5,11,Zharnel Hughes,Great Britain & N.I.,20.3,NA
+200m,2019,M,World Championships,table_7,6,3,Xie Zhenye,China,20.03,NA
+200m,2019,M,World Championships,table_7,6,5,Andre De Grasse,Canada,20.08,NA
+200m,2019,M,World Championships,table_7,6,7,Aaron Brown,Canada,20.2,NA
+200m,2019,M,World Championships,table_7,7,8,Kyle Greaux,Trinidad and Tobago,20.24,NA
+200m,2019,M,World Championships,table_7,7,10,Jereem Richards,Trinidad and Tobago,20.28,NA
+200m,2019,M,World Championships,table_7,8,9,Yancarlos Martínez,Dominican Republic,20.28,NA
+200m,2019,M,World Championships,table_7,8,12,Taymir Burnet,Netherlands,20.34,NA
+200m,2019,M,World Championships,table_7,8,16,Rasheed Dwyer,Jamaica,20.54,NA
+200m,2019,M,World Championships,table_7,9,13,Brendon Rodney,Canada,20.34,NA
+200m,2019,M,World Championships,table_7,9,14,Anaso Jobodwana,South Africa,20.34,NA
+200m,2019,M,World Championships,table_7,9,17,Clarence Munyai,South Africa,20.55,NA
+200m,2019,M,World Championships,table_8,2,7,Xie Zhenye,China,20.14,NA
+200m,2019,M,World Championships,table_8,3,6,Aaron Brown,Canada,20.1,NA
+200m,2019,M,World Championships,table_8,6,4,Adam Gemili,Great Britain & N.I.,20.03,NA
+200m,2019,M,World Championships,table_8,8,8,Kyle Greaux,Trinidad and Tobago,20.39,NA
+200m,2019,M,World Championships,table_8,9,5,Ramil Guliyev,Turkey,20.07,NA
+200m,2020,F,Olympics,table_16,2,7,Imke Vervaet,Belgium,23.31,0.139
+200m,2020,F,Olympics,table_16,3,8,Dalia Kaddari,Italy,23.41,0.134
+200m,2020,F,Olympics,table_16,4,6,Anavia Battle,United States,23.02,0.167
+200m,2020,F,Olympics,table_16,5,2,Shaunae Miller-Uibo,Bahamas,22.14,0.154
+200m,2020,F,Olympics,table_16,6,1,Marie-Josée Ta Lou,Ivory Coast,22.11,0.178
+200m,2020,F,Olympics,table_16,7,3,Mujinga Kambundji,Switzerland,22.26,0.139
+200m,2020,F,Olympics,table_16,8,5,Aminatou Seyni,Niger,22.54,0.156
+200m,2020,F,Olympics,table_16,9,4,Nzubechi Grace Nwokocha,Nigeria,22.47,0.172
+200m,2020,F,Olympics,table_17,2,7,Mujinga Kambundji,Switzerland,22.3,0.147
+200m,2020,F,Olympics,table_17,4,4,Shelly-Ann Fraser-Pryce,Jamaica,21.94,0.141
+200m,2020,F,Olympics,table_17,6,5,Marie-Josée Ta Lou,Ivory Coast,22.27,0.15
+200m,2020,F,Olympics,table_17,8,6,Beatrice Masilingi,Namibia,22.28,0.166
+200m,2020,F,Olympics,table_17,9,8,Shaunae Miller-Uibo,Bahamas,24,0.145
+200m,2020,M,Olympics,table_17,2,8,Taymir Burnet,Netherlands,20.9,0.126
+200m,2020,M,Olympics,table_17,3,7,Leon Reid,Ireland,20.54,0.139
+200m,2020,M,Olympics,table_17,4,6,Ramil Guliyev,Turkey,20.31,0.156
+200m,2020,M,Olympics,table_17,5,3,Jereem Richards,Trinidad and Tobago,20.1,0.161
+200m,2020,M,Olympics,table_17,6,2,Kenneth Bednarek,United States,19.83,0.176
+200m,2020,M,Olympics,table_17,7,5,Sibusiso Matsenjwa,Eswatini,20.22,0.158
+200m,2020,M,Olympics,table_17,8,4,Shaun Maswanganyi,South Africa,20.18,0.151
+200m,2020,M,Olympics,table_17,9,1,Andre De Grasse,Canada,19.73,0.139
+200m,2020,M,Olympics,table_18,2,8,Jereem Richards,Trinidad and Tobago,20.39,0.149
+200m,2020,M,Olympics,table_18,4,6,Aaron Brown,Canada,20.2,0.157
+200m,2020,M,Olympics,table_18,5,4,Erriyon Knighton,United States,19.93,0.159
+200m,2020,M,Olympics,table_18,8,5,Joseph Fahnbulleh,Liberia,19.98,0.141
+200m,2020,M,Olympics,table_18,9,7,Rasheed Dwyer,Jamaica,20.21,0.148
+200m,2022,M,World Championships,table_7,1,8,Luxolo Adams,South Africa,20.47,NA
+200m,2022,M,World Championships,table_7,2,6,Jereem Richards,Trinidad and Tobago,20.08,NA
+200m,2022,M,World Championships,table_7,4,5,Alexander Ogando,Dominican Republic,19.93,NA
+200m,2022,M,World Championships,table_7,7,4,Joseph Fahnbulleh,Liberia,19.84,NA
+200m,2022,M,World Championships,table_7,8,7,Aaron Brown,Canada,20.18,NA
+200m,2023,F,World Championships,table_7,2,8,Marie-Josée Ta Lou,Ivory Coast,22.64,NA
+200m,2023,F,World Championships,table_7,3,6,Anthonique Strachan,Bahamas,22.29,NA
+200m,2023,F,World Championships,table_7,4,7,Dina Asher-Smith,Great Britain & N.I.,22.34,NA
+200m,2023,F,World Championships,table_7,5,5,Daryll Neita,Great Britain & N.I.,22.16,NA
+200m,2023,F,World Championships,table_7,7,4,Julien Alfred,Saint Lucia,22.05,NA
+200m,2023,M,World Championships,table_14,2,8,William Reais,Switzerland,20.67,NA
+200m,2023,M,World Championships,table_14,3,7,Shaun Maswanganyi,South Africa,20.65,NA
+200m,2023,M,World Championships,table_14,4,4,Joseph Fahnbulleh,Liberia,20.21,NA
+200m,2023,M,World Championships,table_14,5,3,Andre De Grasse,Canada,20.1,NA
+200m,2023,M,World Championships,table_14,6,1,Erriyon Knighton,United States,19.98,NA
+200m,2023,M,World Championships,table_14,7,2,Zharnel Hughes,Great Britain & N.I.,20.02,NA
+200m,2023,M,World Championships,table_14,8,5,Towa Uzawa,Japan,20.33,NA
+200m,2023,M,World Championships,table_14,9,6,Rasheed Dwyer,Jamaica,20.49,NA
+200m,2023,M,World Championships,table_15,1,8,Andrew Hudson,Jamaica,20.4,NA
+200m,2023,M,World Championships,table_15,2,9,Joseph Fahnbulleh,Liberia,20.57,NA
+200m,2023,M,World Championships,table_15,3,6,Andre De Grasse,Canada,20.14,NA
+200m,2023,M,World Championships,table_15,4,4,Zharnel Hughes,Great Britain & N.I.,20.02,NA
+200m,2023,M,World Championships,table_15,5,7,Alexander Ogando,Dominican Republic,20.23,NA
+200m,2023,M,World Championships,table_15,7,5,Kenneth Bednarek,United States,20.07,NA
+400m,2008,F,Olympics,table_6,2,5,Rosemarie Whyte,Jamaica,50.68,NA
+400m,2008,F,Olympics,table_6,5,4,Yulia Gushchina,Russia,50.01,NA
+400m,2008,F,Olympics,table_6,8,6,Amantle Montsho,Botswana,51.18,NA
+400m,2008,M,Olympics,table_15,2,5,Gary Kikaya,Democratic Republic of the Congo,44.94,0.187
+400m,2008,M,Olympics,table_15,3,8,Cedric van Branteghem,Belgium,45.81,0.199
+400m,2008,M,Olympics,table_15,4,7,Sean Wroe,Australia,45.56,0.205
+400m,2008,M,Olympics,table_15,5,4,Renny Quow,Trinidad and Tobago,44.82,0.204
+400m,2008,M,Olympics,table_15,6,2,Martyn Rooney,Great Britain,44.6,0.126
+400m,2008,M,Olympics,table_15,7,1,LaShawn Merritt,United States,44.12,0.187
+400m,2008,M,Olympics,table_15,8,3,Johan Wissman,Sweden,44.64,0.211
+400m,2008,M,Olympics,table_15,9,6,Michael Mathieu,Bahamas,45.56,0.203
+400m,2008,M,Olympics,table_16,2,7,Renny Quow,Trinidad and Tobago,45.22,0.201
+400m,2008,M,Olympics,table_16,3,8,Johan Wissman,Sweden,45.39,0.218
+400m,2008,M,Olympics,table_16,5,4,Chris Brown,Bahamas,44.84,0.231
+400m,2008,M,Olympics,table_16,6,5,Leslie Djhone,France,45.11,0.164
+400m,2008,M,Olympics,table_16,8,6,Martyn Rooney,Great Britain,45.12,0.208
+400m,2011,F,World Championships,table_8,1,6,Sanya Richards-Ross,United States,51.32,NA
+400m,2011,F,World Championships,table_8,2,4,Antonina Krivoshapka,Russia,50.66,NA
+400m,2011,F,World Championships,table_8,7,5,Shericka Williams,Jamaica,50.79,NA
+400m,2011,F,World Championships,table_8,8,7,Novlene Williams-Mills,Jamaica,52.89,NA
+400m,2011,M,World Championships,table_8,1,8,Femi Seun Ogunode,Qatar,45.55,NA
+400m,2011,M,World Championships,table_8,2,6,Rondell Bartholomew,Grenada,45.45,NA
+400m,2011,M,World Championships,table_8,3,4,Jermaine Gonzales,Jamaica,44.99,NA
+400m,2011,M,World Championships,table_8,7,7,Tabarie Henry,U.S. Virgin Islands,45.55,NA
+400m,2011,M,World Championships,table_8,8,5,Jonathan Borlée,Belgium,45.07,NA
+400m,2012,M,Olympics,table_15,2,6,Dane Hyatt,Jamaica,45.59,0.159
+400m,2012,M,Olympics,table_15,3,8,Liemarvin Bonevacia,Independent Olympic Athletes,96.42,0.153
+400m,2012,M,Olympics,table_15,4,2,Kevin Borlée,Belgium,44.84,0.147
+400m,2012,M,Olympics,table_15,5,1,Luguelín Santos,Dominican Republic,44.78,0.155
+400m,2012,M,Olympics,table_15,6,3,Bryshon Nellum,United States,45.02,0.173
+400m,2012,M,Olympics,table_15,7,5,Martyn Rooney,Great Britain,45.31,0.186
+400m,2012,M,Olympics,table_15,8,4,Ramon Miller,Bahamas,45.11,0.19
+400m,2012,M,Olympics,table_15,9,7,Yousef Ahmed Masrahi,Saudi Arabia,45.91,0.146
+400m,2012,M,Olympics,table_16,2,6,Jonathan Borlée,Belgium,44.83,0.173
+400m,2012,M,Olympics,table_16,3,8,Steven Solomon,Australia,45.14,0.143
+400m,2012,M,Olympics,table_16,6,4,Chris Brown,Bahamas,44.79,0.166
+400m,2012,M,Olympics,table_16,8,7,Demetrius Pinder,Bahamas,44.98,0.153
+400m,2012,M,Olympics,table_16,9,5,Kevin Borlée,Belgium,44.81,0.151
+400m,2013,F,World Championships,table_8,1,17,Aauri Bokesa,Spain,51.94,NA
+400m,2013,F,World Championships,table_8,1,19,Tjipekapora Herunga,Namibia,52.28,NA
+400m,2013,F,World Championships,table_8,1,20,Amy Mbacké Thiam,Senegal,52.37,NA
+400m,2013,F,World Championships,table_8,2,18,Chiara Bazzoni,Italy,52.11,NA
+400m,2013,F,World Championships,table_8,2,22,Esther Cremer,Germany,52.42,NA
+400m,2013,F,World Championships,table_8,2,23,Agne Šerkšnienė,Lithuania,52.48,NA
+400m,2013,F,World Championships,table_8,3,5,Stephanie McPherson,Jamaica,49.99,NA
+400m,2013,F,World Championships,table_8,3,8,Libania Grenot,Italy,50.47,NA
+400m,2013,F,World Championships,table_8,3,9,Kseniya Ryzhova,Russia,50.48,NA
+400m,2013,F,World Championships,table_8,4,2,Christine Ohuruogu,Great Britain & N.I.,49.75,NA
+400m,2013,F,World Championships,table_8,4,5,Antonina Krivoshapka,Russia,49.99,NA
+400m,2013,F,World Championships,table_8,4,16,Ashley Spencer,United States,51.8,NA
+400m,2013,F,World Championships,table_8,5,1,Amantle Montsho,Botswana,49.56,NA
+400m,2013,F,World Championships,table_8,5,3,Francena McCorory,United States,49.86,NA
+400m,2013,F,World Championships,table_8,5,4,Natasha Hastings,United States,49.94,NA
+400m,2013,F,World Championships,table_8,6,7,Novlene Williams-Mills,Jamaica,50.34,NA
+400m,2013,F,World Championships,table_8,6,10,Regina George,Nigeria,50.84,NA
+400m,2013,F,World Championships,table_8,6,11,Nataliya Pyhyda,Ukraine,51.02,NA
+400m,2013,F,World Championships,table_8,7,12,Floria Gueï,France,51.42,NA
+400m,2013,F,World Championships,table_8,7,13,Bianca Răzor,Romania,51.49,NA
+400m,2013,F,World Championships,table_8,7,14,Marie Gayot,France,51.54,NA
+400m,2013,F,World Championships,table_8,8,15,Kineke Alexander,Saint Vincent and the Grenadines,51.64,NA
+400m,2013,F,World Championships,table_8,8,21,Omolara Omotoso,Nigeria,52.38,NA
+400m,2013,F,World Championships,table_8,8,24,Patricia Hall,Jamaica,52.62,NA
+400m,2013,F,World Championships,table_9,1,7,Novlene Williams-Mills,Jamaica,51.49,NA
+400m,2013,F,World Championships,table_9,3,4,Natasha Hastings,United States,50.3,NA
+400m,2013,F,World Championships,table_9,6,5,Francena McCorory,United States,50.68,NA
+400m,2013,F,World Championships,table_9,7,6,Kseniya Ryzhova,Russia,50.98,NA
+400m,2013,M,World Championships,table_8,1,19,Omar Johnson,Jamaica,45.89,NA
+400m,2013,M,World Championships,table_8,1,23,Yuzo Kanemaru,Japan,46.28,NA
+400m,2013,M,World Championships,table_8,1,24,Nery Brenes,Costa Rica,46.34,NA
+400m,2013,M,World Championships,table_8,2,13,Arman Hall,United States,45.54,NA
+400m,2013,M,World Championships,table_8,2,20,Gustavo Cuesta,Dominican Republic,45.93,NA
+400m,2013,M,World Championships,table_8,2,21,Brian Gregan,Ireland,45.98,NA
+400m,2013,M,World Championships,table_8,3,3,Tony McQuay,United States,44.66,NA
+400m,2013,M,World Championships,table_8,3,7,Jonathan Borlée,Belgium,44.85,NA
+400m,2013,M,World Championships,table_8,3,17,Javere Bell,Jamaica,45.77,NA
+400m,2013,M,World Championships,table_8,4,4,Kirani James,Grenada,44.81,NA
+400m,2013,M,World Championships,table_8,4,9,Kevin Borlée,Belgium,45.03,NA
+400m,2013,M,World Championships,table_8,4,12,Deon Lendore,Trinidad and Tobago,45.47,NA
+400m,2013,M,World Championships,table_8,5,8,Anderson Henriques,Brazil,44.95,NA
+400m,2013,M,World Championships,table_8,5,11,Jarrin Solomon,Trinidad and Tobago,45.43,NA
+400m,2013,M,World Championships,table_8,5,16,Matteo Galvan,Italy,45.69,NA
+400m,2013,M,World Championships,table_8,6,1,LaShawn Merritt,United States,44.6,NA
+400m,2013,M,World Championships,table_8,6,5,Luguelín Santos,Dominican Republic,44.83,NA
+400m,2013,M,World Championships,table_8,6,15,Javon Francis,Jamaica,45.62,NA
+400m,2013,M,World Championships,table_8,7,6,Pavel Maslák,Czech Republic,44.84,NA
+400m,2013,M,World Championships,table_8,7,18,Nick Ekelund-Arenander,Denmark,45.89,NA
+400m,2013,M,World Championships,table_8,7,22,José Meléndez,Venezuela,46.22,NA
+400m,2013,M,World Championships,table_8,8,2,Yousef Masrahi,Saudi Arabia,44.61,NA
+400m,2013,M,World Championships,table_8,8,10,Chris Brown,Bahamas,45.18,NA
+400m,2013,M,World Championships,table_8,8,14,Nigel Levine,Great Britain & N.I.,45.6,NA
+400m,2013,M,World Championships,table_9,1,5,Pavel Maslák,Czech Republic,44.91,NA
+400m,2013,M,World Championships,table_9,2,8,Anderson Henriques,Brazil,45.03,NA
+400m,2013,M,World Championships,table_9,3,6,Yousef Masrahi,Saudi Arabia,44.97,NA
+400m,2013,M,World Championships,table_9,5,7,Kirani James,Grenada,44.99,NA
+400m,2013,M,World Championships,table_9,8,4,Jonathan Borlée,Belgium,44.54,NA
+400m,2015,F,World Championships,table_9,2,6,Novlene Williams-Mills,Jamaica,50.47,NA
+400m,2015,F,World Championships,table_9,3,7,Phyllis Francis,United States,50.51,NA
+400m,2015,F,World Championships,table_9,7,8,Christine Ohuruogu,Great Britain & N.I.,50.63,NA
+400m,2015,F,World Championships,table_9,8,4,Christine Day,Jamaica,50.14,NA
+400m,2015,F,World Championships,table_9,9,5,Stephenie Ann McPherson,Jamaica,50.42,NA
+400m,2015,M,World Championships,table_9,2,7,Machel Cedenio,Trinidad and Tobago,45.06,NA
+400m,2015,M,World Championships,table_9,3,6,Rabah Yousif,Great Britain & N.I.,44.68,NA
+400m,2015,M,World Championships,table_9,4,5,Isaac Makwala,Botswana,44.63,NA
+400m,2015,M,World Championships,table_9,7,4,Luguelín Santos,Dominican Republic,44.11,NA
+400m,2015,M,World Championships,table_9,9,8,Yousef Masrahi,Saudi Arabia,45.15,NA
+400m,2016,F,Olympics,table_16,1,5,Justyna Święty,Poland,51.62,0.171
+400m,2016,F,Olympics,table_16,2,6,Anneliese Rubie,Australia,51.96,0.172
+400m,2016,F,Olympics,table_16,3,1,Allyson Felix,United States,49.67,0.174
+400m,2016,F,Olympics,table_16,4,2,Shaunae Miller,Bahamas,49.91,0.167
+400m,2016,F,Olympics,table_16,5,4,Christine Day,Jamaica,51.53,0.186
+400m,2016,F,Olympics,table_16,6,3,Libania Grenot,Italy,50.6,0.156
+400m,2016,F,Olympics,table_16,7,8,Patience Okon George,Nigeria,52.52,0.161
+400m,2016,F,Olympics,table_16,8,7,Kabange Mupopo,Zambia,52.04,0.155
+400m,2016,F,Olympics,table_17,2,7,Libania Grenot,Italy,51.25,0.149
+400m,2016,F,Olympics,table_17,3,5,Phyllis Francis,United States,50.41,0.219
+400m,2016,F,Olympics,table_17,6,4,Natasha Hastings,United States,50.34,0.161
+400m,2016,F,Olympics,table_17,8,6,Stephenie Ann McPherson,Jamaica,50.97,0.133
+400m,2016,M,Olympics,table_17,1,8,Isaac Makwala,Botswana,46.6,0.173
+400m,2016,M,Olympics,table_17,2,7,Rafał Omelko,Poland,45.28,0.164
+400m,2016,M,Olympics,table_17,3,3,Ali Khamis,Bahrain,44.49,0.145
+400m,2016,M,Olympics,table_17,4,4,Gil Roberts,United States,44.65,0.151
+400m,2016,M,Olympics,table_17,5,5,Steven Gardiner,Bahamas,44.72,0.156
+400m,2016,M,Olympics,table_17,6,1,Bralon Taplin,Grenada,44.44,0.171
+400m,2016,M,Olympics,table_17,7,6,Yoandys Lescay,Cuba,45,0.216
+400m,2016,M,Olympics,table_17,8,2,Matthew Hudson-Smith,Great Britain,44.48,0.143
+400m,2016,M,Olympics,table_18,1,5,Karabo Sibanda,Botswana,44.25,0.164
+400m,2016,M,Olympics,table_18,2,6,Ali Khamis,Bahrain,44.36,0.148
+400m,2016,M,Olympics,table_18,3,4,Machel Cedenio,Trinidad and Tobago,44.01,0.203
+400m,2016,M,Olympics,table_18,4,7,Bralon Taplin,Grenada,44.45,0.181
+400m,2016,M,Olympics,table_18,7,8,Matthew Hudson-Smith,Great Britain,44.61,0.138
+400m,2017,F,World Championships,table_10,2,5,Shericka Jackson,Jamaica,50.76,NA
+400m,2017,F,World Championships,table_10,3,8,Novlene Williams-Mills,Jamaica,51.48,NA
+400m,2017,F,World Championships,table_10,7,4,Shaunae Miller-Uibo,Bahamas,50.49,NA
+400m,2017,F,World Championships,table_10,8,6,Stephenie Ann McPherson,Jamaica,50.86,NA
+400m,2017,F,World Championships,table_10,9,7,Kabange Mupopo,Zambia,51.15,NA
+400m,2017,F,World Championships,table_9,2,13,Lydia Jele,Botswana,51.57,NA
+400m,2017,F,World Championships,table_9,2,15,Iga Baumgart,Poland,51.81,NA
+400m,2017,F,World Championships,table_9,2,18,Bianca Răzor,Romania,52.09,NA
+400m,2017,F,World Championships,table_9,3,14,Ruth Spelmeyer,Germany,51.77,NA
+400m,2017,F,World Championships,table_9,3,17,Roxana Gomez,Cuba,52.01,NA
+400m,2017,F,World Championships,table_9,3,22,Nirmala Sheoran,India,53.07,NA
+400m,2017,F,World Championships,table_9,4,2,Allyson Felix,United States,50.12,NA
+400m,2017,F,World Championships,table_9,4,6,Kabange Mupopo,Zambia,50.6,NA
+400m,2017,F,World Championships,table_9,4,21,Patience Okon George,Nigeria,52.6,NA
+400m,2017,F,World Championships,table_9,5,3,Shaunae Miller-Uibo,Bahamas,50.36,NA
+400m,2017,F,World Championships,table_9,5,4,Phyllis Francis,United States,50.37,NA
+400m,2017,F,World Championships,table_9,5,8,Shericka Jackson,Jamaica,50.7,NA
+400m,2017,F,World Championships,table_9,6,9,Quanera Hayes,United States,50.71,NA
+400m,2017,F,World Championships,table_9,6,11,Amantle Montsho,Botswana,51.28,NA
+400m,2017,F,World Championships,table_9,6,23,Irini Vasiliou,Greece,53.27,NA
+400m,2017,F,World Championships,table_9,7,1,Salwa Eid Naser,Bahrain,50.08,NA
+400m,2017,F,World Championships,table_9,7,5,Stephenie Ann McPherson,Jamaica,50.56,NA
+400m,2017,F,World Championships,table_9,7,10,Chrisann Gordon,Jamaica,50.87,NA
+400m,2017,F,World Championships,table_9,8,12,Gunta Latiševa-Čudare,Latvia,51.57,NA
+400m,2017,F,World Championships,table_9,8,16,Zoey Clark,Great Britain & N.I.,51.81,NA
+400m,2017,F,World Championships,table_9,8,19,Yinka Ajayi,Nigeria,52.1,NA
+400m,2017,F,World Championships,table_9,9,7,Novlene Williams-Mills,Jamaica,50.67,NA
+400m,2017,F,World Championships,table_9,9,20,Margaret Bamgbose,Nigeria,52.23,NA
+400m,2017,F,World Championships,table_9,9,24,Ashley Kelly,British Virgin Islands,54.5,NA
+400m,2017,M,World Championships,table_10,2,7,Fred Kerley,United States,45.23,NA
+400m,2017,M,World Championships,table_10,5,5,Nathon Allen,Jamaica,44.88,NA
+400m,2017,M,World Championships,table_10,8,6,Demish Gaye,Jamaica,45.04,NA
+400m,2017,M,World Championships,table_10,9,4,Baboloki Thebe,Botswana,44.66,NA
+400m,2017,M,World Championships,table_9,2,9,Matthew Hudson-Smith,Great Britain & N.I.,44.74,NA
+400m,2017,M,World Championships,table_9,2,17,Pavel Maslák,Czech Republic,45.24,NA
+400m,2017,M,World Championships,table_9,2,18,Rafał Omelko,Poland,45.37,NA
+400m,2017,M,World Championships,table_9,3,14,Óscar Husillos,Spain,45.16,NA
+400m,2017,M,World Championships,table_9,3,16,Jonathan Borlée,Belgium,45.23,NA
+400m,2017,M,World Championships,table_9,3,22,Boniface Ontuga Mweresa,Kenya,45.93,NA
+400m,2017,M,World Championships,table_9,4,12,Wilbert London,United States,45.12,NA
+400m,2017,M,World Championships,table_9,4,15,Lalonde Gordon,Trinidad and Tobago,45.2,NA
+400m,2017,M,World Championships,table_9,4,23,Davide Re,Italy,45.95,NA
+400m,2017,M,World Championships,table_9,5,1,Steven Gardiner,Bahamas,43.89,NA
+400m,2017,M,World Championships,table_9,5,4,Isaac Makwala,Botswana,44.3,NA
+400m,2017,M,World Championships,table_9,5,5,Baboloki Thebe,Botswana,44.33,NA
+400m,2017,M,World Championships,table_9,6,2,Nathon Allen,Jamaica,44.19,NA
+400m,2017,M,World Championships,table_9,6,3,Wayde van Niekerk,South Africa,44.22,NA
+400m,2017,M,World Championships,table_9,6,7,Demish Gaye,Jamaica,44.55,NA
+400m,2017,M,World Championships,table_9,7,6,Fred Kerley,United States,44.51,NA
+400m,2017,M,World Championships,table_9,7,10,Gil Roberts,United States,44.84,NA
+400m,2017,M,World Championships,table_9,7,20,LaShawn Merritt,United States,45.52,NA
+400m,2017,M,World Championships,table_9,8,19,Brian Gregan,Ireland,45.42,NA
+400m,2017,M,World Championships,table_9,8,21,Machel Cedenio,Trinidad and Tobago,45.91,NA
+400m,2017,M,World Championships,table_9,8,24,Dwayne Cowan,Great Britain & N.I.,45.96,NA
+400m,2017,M,World Championships,table_9,9,8,Abdalelah Haroun,Qatar,44.64,NA
+400m,2017,M,World Championships,table_9,9,11,Kevin Borlée,Belgium,45.1,NA
+400m,2017,M,World Championships,table_9,9,13,Jamal Walton,Cayman Islands,45.16,NA
+400m,2019,F,World Championships,table_7,2,11,Lisanne de Witte,Netherlands,51.41,NA
+400m,2019,F,World Championships,table_7,2,15,Emily Diamond,Great Britain & N.I.,51.62,NA
+400m,2019,F,World Championships,table_7,2,17,Patience Okon George,Nigeria,51.89,NA
+400m,2019,F,World Championships,table_7,3,12,Roxana Gómez,Cuba,51.56,NA
+400m,2019,F,World Championships,table_7,3,14,Kendall Ellis,United States,51.58,NA
+400m,2019,F,World Championships,table_7,3,16,Aliyah Abrams,Guyana,51.71,NA
+400m,2019,F,World Championships,table_7,4,3,Wadeline Jonathas,United States,50.07,NA
+400m,2019,F,World Championships,table_7,4,19,Déborah Sananes,France,52.24,NA
+400m,2019,F,World Championships,table_7,5,5,Phyllis Francis,United States,50.22,NA
+400m,2019,F,World Championships,table_7,5,7,Justyna Święty-Ersetic,Poland,50.96,NA
+400m,2019,F,World Championships,table_7,5,10,Sada Williams,Barbados,51.31,NA
+400m,2019,F,World Championships,table_7,6,1,Shaunae Miller-Uibo,Bahamas,49.66,NA
+400m,2019,F,World Championships,table_7,6,6,Stephenie Ann McPherson,Jamaica,50.7,NA
+400m,2019,F,World Championships,table_7,6,8,Iga Baumgart-Witan,Poland,51.02,NA
+400m,2019,F,World Championships,table_7,7,2,Salwa Eid Naser,Bahrain,49.79,NA
+400m,2019,F,World Championships,table_7,7,4,Shericka Jackson,Jamaica,50.1,NA
+400m,2019,F,World Championships,table_7,8,9,Paola Morán,Mexico,51.08,NA
+400m,2019,F,World Championships,table_7,8,20,Lada Vondrová,Czech Republic,52.25,NA
+400m,2019,F,World Championships,table_7,8,21,Favour Ofili,Nigeria,52.58,NA
+400m,2019,F,World Championships,table_7,9,13,Bendere Oboya,Australia,51.58,NA
+400m,2019,F,World Championships,table_7,9,18,Mary Moraa,Kenya,52.11,NA
+400m,2019,F,World Championships,table_7,9,22,Laviai Nielsen,Great Britain & N.I.,52.94,NA
+400m,2019,F,World Championships,table_8,2,8,Iga Baumgart-Witan,Poland,51.29,NA
+400m,2019,F,World Championships,table_8,4,6,Stephenie Ann McPherson,Jamaica,50.89,NA
+400m,2019,F,World Championships,table_8,6,4,Wadeline Jonathas,United States,49.6,NA
+400m,2019,F,World Championships,table_8,8,5,Phyllis Francis,United States,49.61,NA
+400m,2019,F,World Championships,table_8,9,7,Justyna Święty-Ersetic,Poland,50.95,NA
+400m,2019,M,World Championships,table_7,2,18,Nathan Strother,United States,45.34,NA
+400m,2019,M,World Championships,table_7,2,20,Steven Solomon,Australia,45.54,NA
+400m,2019,M,World Championships,table_7,2,21,Alphas Kishoyian,Kenya,45.55,NA
+400m,2019,M,World Championships,table_7,3,15,Jhon Perlaza,Colombia,45.17,NA
+400m,2019,M,World Championships,table_7,3,23,Mazen Al-Yassin,Saudi Arabia,46.11,NA
+400m,2019,M,World Championships,table_7,4,3,Fred Kerley,United States,44.25,NA
+400m,2019,M,World Championships,table_7,4,19,Philip Osei,Canada,45.44,NA
+400m,2019,M,World Championships,table_7,4,22,Michael Norman,United States,45.94,NA
+400m,2019,M,World Championships,table_7,5,2,Kirani James,Grenada,44.23,NA
+400m,2019,M,World Championships,table_7,5,4,Emmanuel Korir,Kenya,44.37,NA
+400m,2019,M,World Championships,table_7,5,13,Julian Walsh,Japan,45.13,NA
+400m,2019,M,World Championships,table_7,6,1,Steven Gardiner,Bahamas,44.13,NA
+400m,2019,M,World Championships,table_7,6,8,Akeem Bloomfield,Jamaica,44.77,NA
+400m,2019,M,World Championships,table_7,6,12,Jonathan Sacoor,Belgium,45.03,NA
+400m,2019,M,World Championships,table_7,7,5,Machel Cedenio,Trinidad and Tobago,44.41,NA
+400m,2019,M,World Championships,table_7,7,7,Demish Gaye,Jamaica,44.66,NA
+400m,2019,M,World Championships,table_7,7,9,Davide Re,Italy,44.85,NA
+400m,2019,M,World Championships,table_7,8,6,Anthony Zambrano,Colombia,44.55,NA
+400m,2019,M,World Championships,table_7,8,11,Leungo Scotch,Botswana,45,NA
+400m,2019,M,World Championships,table_7,8,17,Abbas Abubakar Abbas,Bahrain,45.26,NA
+400m,2019,M,World Championships,table_7,9,10,Vernon Norwood,United States,45,NA
+400m,2019,M,World Championships,table_7,9,14,Rabah Yousif,Great Britain & N.I.,45.15,NA
+400m,2019,M,World Championships,table_7,9,16,Thapelo Phora,South Africa,45.24,NA
+400m,2019,M,World Championships,table_8,2,8,Akeem Bloomfield,Jamaica,45.36,NA
+400m,2019,M,World Championships,table_8,3,4,Demish Gaye,Jamaica,44.46,NA
+400m,2019,M,World Championships,table_8,6,7,Machel Cedenio,Trinidad and Tobago,45.3,NA
+400m,2019,M,World Championships,table_8,7,5,Kirani James,Grenada,44.54,NA
+400m,2019,M,World Championships,table_8,9,6,Emmanuel Korir,Kenya,44.94,NA
+400m,2020,F,Olympics,table_14,2,8,Lisanne de Witte,Netherlands,52.09,0.178
+400m,2020,F,Olympics,table_14,3,5,Kyra Constantine,Canada,51.22,0.177
+400m,2020,F,Olympics,table_14,4,4,Natalia Kaczmarek,Poland,50.79,0.165
+400m,2020,F,Olympics,table_14,5,1,Stephenie Ann McPherson,Jamaica,49.34,0.134
+400m,2020,F,Olympics,table_14,6,2,Allyson Felix,United States,49.89,0.179
+400m,2020,F,Olympics,table_14,7,6,Amandine Brossier,France,51.3,0.17
+400m,2020,F,Olympics,table_14,8,3,Sada Williams,Barbados,50.11,0.167
+400m,2020,F,Olympics,table_14,9,7,Cátia Azevedo,Portugal,51.32,0.146
+400m,2020,F,Olympics,table_15,2,7,Quanera Hayes,United States,50.88,0.176
+400m,2020,F,Olympics,table_15,4,5,Candice McLeod,Jamaica,49.87,0.152
+400m,2020,F,Olympics,table_15,6,4,Stephenie Ann McPherson,Jamaica,49.61,0.131
+400m,2020,F,Olympics,table_15,8,6,Jodie Williams,Great Britain,49.97,0.127
+400m,2020,M,Olympics,table_16,2,7,Dwight St. Hillaire,Trinidad and Tobago,45.58,0.153
+400m,2020,M,Olympics,table_16,3,4,Demish Gaye,Jamaica,45.09,0.155
+400m,2020,M,Olympics,table_16,4,3,Isaac Makwala,Botswana,44.59,0.197
+400m,2020,M,Olympics,table_16,5,8,Jonathan Jones,Barbados,45.61,0.159
+400m,2020,M,Olympics,table_16,6,1,Steven Gardiner,Bahamas,44.14,0.152
+400m,2020,M,Olympics,table_16,7,2,Michael Norman,United States,44.52,0.156
+400m,2020,M,Olympics,table_16,8,5,Wayde van Niekerk,South Africa,45.14,0.381
+400m,2020,M,Olympics,table_16,9,6,Jochem Dobber,Netherlands,45.48,0.191
+400m,2020,M,Olympics,table_17,2,7,Isaac Makwala,Botswana,44.94,0.167
+400m,2020,M,Olympics,table_17,3,8,Liemarvin Bonevacia,Netherlands,45.07,0.168
+400m,2020,M,Olympics,table_17,6,4,Michael Cherry,United States,44.21,0.179
+400m,2020,M,Olympics,table_17,8,5,Michael Norman,United States,44.31,0.148
+400m,2020,M,Olympics,table_17,9,6,Christopher Taylor,Jamaica,44.79,0.158
